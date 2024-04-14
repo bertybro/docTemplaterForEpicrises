@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "docxtemplater": "^3.40.1",
+    "jszip": "^2.7.0",
+    "officegen": "^0.6.5",
+    "pizzip": "^3.1.4",
+    "xlsx": "^0.18.5"
+  }
+}
